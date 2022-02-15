@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Las Tapiocas</title>
-    <link>https://demo.gethugothemes.com/restaurant/examplesite/</link>
+    <link>https://pedromaldonado.github.io/</link>
     <description>Recent content on Las Tapiocas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/restaurant/examplesite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate><atom:link href="https://pedromaldonado.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frappes</title>
-      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/frappes/</link>
+      <link>https://pedromaldonado.github.io/post/frappes/</link>
       <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/frappes/</guid>
+      <guid>https://pedromaldonado.github.io/post/frappes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smoothies</title>
-      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/smoothies/</link>
+      <link>https://pedromaldonado.github.io/post/smoothies/</link>
       <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/smoothies/</guid>
+      <guid>https://pedromaldonado.github.io/post/smoothies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crepas</title>
-      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/crepas/</link>
+      <link>https://pedromaldonado.github.io/post/crepas/</link>
       <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/crepas/</guid>
+      <guid>https://pedromaldonado.github.io/post/crepas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pasteles</title>
-      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/pasteles/</link>
+      <link>https://pedromaldonado.github.io/post/pasteles/</link>
       <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/pasteles/</guid>
+      <guid>https://pedromaldonado.github.io/post/pasteles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Waffles</title>
-      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/waffles/</link>
+      <link>https://pedromaldonado.github.io/post/waffles/</link>
       <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/waffles/</guid>
+      <guid>https://pedromaldonado.github.io/post/waffles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Otras-Bebidas</title>
-      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/otras-bebidas/</link>
+      <link>https://pedromaldonado.github.io/post/otras-bebidas/</link>
       <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/otras-bebidas/</guid>
+      <guid>https://pedromaldonado.github.io/post/otras-bebidas/</guid>
       <description></description>
     </item>
     
