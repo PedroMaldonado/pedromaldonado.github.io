@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Las Tapiocas</title>
+    <link>https://demo.gethugothemes.com/restaurant/examplesite/</link>
+    <description>Recent content on Las Tapiocas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/restaurant/examplesite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frappes</title>
+      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/frappes/</link>
+      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/frappes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothies</title>
+      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/smoothies/</link>
+      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/smoothies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crepas</title>
+      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/crepas/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/crepas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasteles</title>
+      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/pasteles/</link>
+      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/pasteles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waffles</title>
+      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/waffles/</link>
+      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/waffles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Otras-Bebidas</title>
+      <link>https://demo.gethugothemes.com/restaurant/examplesite/post/otras-bebidas/</link>
+      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/restaurant/examplesite/post/otras-bebidas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
